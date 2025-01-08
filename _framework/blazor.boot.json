@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TestApp.Browser",
   "resources": {
-    "hash": "sha256-XgmeA77eGGkvG+iuLQ4NMgGIzLHHNlesAVaZlN4lIVg=",
+    "hash": "sha256-fvnFQeo45P5O/k/5B7lW+yhMyAU6mAola5wh1LOg9xM=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.54gc826ext.js": "sha256-yEv+CRS+2+5yJ3BCvly1Qwx3P2otrVqtxxv3R+ryujc="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.8.0.11.lzlqtfpif6.js": "sha256-nam8JTYKjhMKOTg6+FlihYP6JpWPGe3jjM9fiUFWzhY="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-cnYOJjZGJWFFFA79Ywm0G1JK/Y7PDV0nlTKZJDmKN/E="
+      "dotnet.native.wasm": "sha256-hq8XBEFisDocEvkchJjXe3sL1luwv4seVJEjUBfJ9co="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -246,12 +246,12 @@
       "System.Xml.XPath.XDocument.wasm": "sha256-Kzy2/teP/Zzq4DzSxR6+VOVMKLGM1KUn0xeqsxV7Vlw=",
       "TestableIO.System.IO.Abstractions.wasm": "sha256-b6SnoW6icdYXQfWBAjpdixd9hGNZCN2pMwVpOLt5Vk4=",
       "TestableIO.System.IO.Abstractions.Wrappers.wasm": "sha256-hlgxNhIV11j4Xr+iYCzOZhmJQ+Xq/YqPlxh0oF4Gwi4=",
-      "TestApp.Browser.wasm": "sha256-tbL+orU9RtM8LuW7H/ZYpsUMqDrXV4E9TFPGZSIOUEU=",
-      "TestApp.wasm": "sha256-PO7ibyQXytREir/qBqiVVcDGQFcSetrVHFIoVvRGTq4=",
+      "TestApp.Browser.wasm": "sha256-cdesCOBw0zXQHS7KjKFCGvzJzQthYL9LgfvhIiouLW8=",
+      "TestApp.wasm": "sha256-kRxXc530eKIjQC5mjAtNAI8N8WCsROqoX/K7yaFn+HE=",
       "WindowsBase.wasm": "sha256-OvvMg6Wq2zXE8rpCIWduWwx7Z2DmNb/Rc5MKcnddDzM=",
-      "Zafiro.Avalonia.DataViz.wasm": "sha256-NTEUJGOJ2NU1Y5eb4N/yhl4lZkdtWnhM6h/0NxQcPSM=",
-      "Zafiro.Avalonia.Dialogs.wasm": "sha256-jjcYCB2Qdpt6bu1enRWYcqvMbu7Irso1K1iodNeFFes=",
-      "Zafiro.Avalonia.wasm": "sha256-vOcAYbdiHlN4JEdGUuanWPaI23VVPrReQZyVttnbNmM=",
+      "Zafiro.Avalonia.DataViz.wasm": "sha256-vLmzROJGrdN/TWwi6t6BliTzb6MNkGB4AvyX9IrmWuU=",
+      "Zafiro.Avalonia.Dialogs.wasm": "sha256-UDEQNCBIkGjZhXV93TB0BI8dHfgtnvajAywCxMSqVbk=",
+      "Zafiro.Avalonia.wasm": "sha256-ZKI5uPglEoy5mj8oXHK2x85nVTKmRGjBm0lxt2hr3YQ=",
       "Zafiro.FileSystem.wasm": "sha256-dJFB+H4Fdak53ivPaOpT1ZtLnyaQUX0zj9FolfXPgE8=",
       "Zafiro.UI.wasm": "sha256-vBd40VkudzSbInCE9bKL9QwU9rM8XkWN4fw2r+UtTh0=",
       "Zafiro.wasm": "sha256-vopQaksfNn/2/NrigKeQ5ZmO3gFKsUtlZHFhRcfu0eg="
