@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TestApp.Browser",
   "resources": {
-    "hash": "sha256-Q71nXq6mvBuMRcHzZ+FFrONqSUINnKdoWb3IKVsoNQ8=",
+    "hash": "sha256-L4pXYVgacFSqsjB1JaJovOyDpySUKupWq0WMBRJ/Xm8=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-DTUQS6Jc6BNnS7sYYezFfaUKVmQq0/lanhQuJfygH/k="
     },
@@ -249,15 +249,15 @@
       "System.Xml.XPath.XDocument.wasm": "sha256-wP+Tyl14gWjBZ2zXTetQbBSZ7an+oOc9sSmZW/iOq7s=",
       "TestableIO.System.IO.Abstractions.wasm": "sha256-b6SnoW6icdYXQfWBAjpdixd9hGNZCN2pMwVpOLt5Vk4=",
       "TestableIO.System.IO.Abstractions.Wrappers.wasm": "sha256-hlgxNhIV11j4Xr+iYCzOZhmJQ+Xq/YqPlxh0oF4Gwi4=",
-      "TestApp.Browser.wasm": "sha256-2RD5y/0a+8TyiMaxURqcVAcisvCW37qOlReHfaSUVaM=",
-      "TestApp.wasm": "sha256-5fMjvKdnbSDjgxIrCEa+EZfKxSyj7/Mzv/vDusa4MwI=",
+      "TestApp.Browser.wasm": "sha256-zz7DeECcpeyqKoy95m+nVR0kjEgNjr/sR8oqUzskcvs=",
+      "TestApp.wasm": "sha256-sq7Z7KlA0FBeh6je0boR+8eQNkQJzyhneU1Pe27E2ZQ=",
       "WindowsBase.wasm": "sha256-YIatv+WE2aaMxr44B6o5zHhsQPQol6NHIny8ZcYQl/Q=",
-      "Zafiro.Avalonia.DataViz.wasm": "sha256-l0GKPc6tEL84Tm6vI/lQqDYJUgj5YPll2oqDE7B7tIU=",
-      "Zafiro.Avalonia.Dialogs.wasm": "sha256-P8qLWILje+1IYwkbkaJUHA/nuSXzF++fORQEUbLODxQ=",
-      "Zafiro.Avalonia.wasm": "sha256-5cCaaqKeIRKsclfQzp0+X6sSdvBxnDQnKwPizAgLmdY=",
-      "Zafiro.FileSystem.wasm": "sha256-dJFB+H4Fdak53ivPaOpT1ZtLnyaQUX0zj9FolfXPgE8=",
-      "Zafiro.UI.wasm": "sha256-vBd40VkudzSbInCE9bKL9QwU9rM8XkWN4fw2r+UtTh0=",
-      "Zafiro.wasm": "sha256-Dcl7vCI2emieHTe9VgPFyWklDfKu4Io1sImN2a3x+C0="
+      "Zafiro.Avalonia.DataViz.wasm": "sha256-5PzZayL8mbmxBAY522/RLNS4wjbWUUz+p5aDGss9ouY=",
+      "Zafiro.Avalonia.Dialogs.wasm": "sha256-JD3rPoLT3VSJ8AJ//IVwBIcnjX5SKmiiQcqbWb8paN8=",
+      "Zafiro.Avalonia.wasm": "sha256-XoDgoYM+sPYyMchMVVLMSuD1fnMwuhgPuFeqCWTsW+U=",
+      "Zafiro.FileSystem.wasm": "sha256-pxzy0jWHQ4MURzEUrJTCvqheRBnyHu3WPXWkfgwE2MA=",
+      "Zafiro.UI.wasm": "sha256-ewyGxLC7T962rBEmIjjjMPbciW6CAmM9RQCc4WYBikE=",
+      "Zafiro.wasm": "sha256-+u4EJ76zsVS/KrECr/+m0glZ4NWT7wn5sRQYvih1lW4="
     }
   },
   "cacheBootResources": true,
