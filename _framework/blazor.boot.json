@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TestApp.Browser",
   "resources": {
-    "hash": "sha256-tFKR2vOuiuGn5L2SP8dz/KTkWJp7H0STadIYi3yRSaE=",
+    "hash": "sha256-8EobWl5Jsrk9kojD4ReIq3/ZhitCobwOvFkZ9Q9w8xM=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-DTUQS6Jc6BNnS7sYYezFfaUKVmQq0/lanhQuJfygH/k="
     },
@@ -250,12 +250,12 @@
       "System.Xml.XPath.XDocument.wasm": "sha256-wP+Tyl14gWjBZ2zXTetQbBSZ7an+oOc9sSmZW/iOq7s=",
       "TestableIO.System.IO.Abstractions.wasm": "sha256-b6SnoW6icdYXQfWBAjpdixd9hGNZCN2pMwVpOLt5Vk4=",
       "TestableIO.System.IO.Abstractions.Wrappers.wasm": "sha256-hlgxNhIV11j4Xr+iYCzOZhmJQ+Xq/YqPlxh0oF4Gwi4=",
-      "TestApp.Browser.wasm": "sha256-QYx6jUHcKu0Leqa7jx83IQQDJdUFMUMZhd2p8SkYDos=",
-      "TestApp.wasm": "sha256-aGbaOqvv0c7VZyXFeDUnZdjycDeOSi63+0xFu7GnOhY=",
+      "TestApp.Browser.wasm": "sha256-NbQH2Ajrizwe+kIdh2EAXNEdG/LLTUGDO6a3nwTpMCs=",
+      "TestApp.wasm": "sha256-MjTwoSen54wtlaQ1MW9EENUB34Nx+CusvwZSu7UYFTM=",
       "WindowsBase.wasm": "sha256-YIatv+WE2aaMxr44B6o5zHhsQPQol6NHIny8ZcYQl/Q=",
-      "Zafiro.Avalonia.DataViz.wasm": "sha256-X9YDVd0bLpMtyDb1jeVwKvhrrfo7G6mfKuh9qJmOPhI=",
-      "Zafiro.Avalonia.Dialogs.wasm": "sha256-WTTaBMhDYcL59zPtz8zc+UYwqgchcKoq8DVCeMm0EKg=",
-      "Zafiro.Avalonia.wasm": "sha256-nq3+zuISbJ91on6t9T4cLz/mmO6zx/LCvnVUIpoMRwU=",
+      "Zafiro.Avalonia.DataViz.wasm": "sha256-izp9KJK1k47oPjrSUhmlk+WyIBu1P9VqFgAoM3hNJKI=",
+      "Zafiro.Avalonia.Dialogs.wasm": "sha256-8Pugj2jcMG5R5CsPYcXwr7g/Bkmn+8z/7EWgErKb1lQ=",
+      "Zafiro.Avalonia.wasm": "sha256-8tZzGhueJTqDFy29tAiRF58bqfk/WtSgG3ICQvo6DAw=",
       "Zafiro.FileSystem.wasm": "sha256-8I7hOogiA3/vUcR20J1OeQyabalkg6CdRjElKC15TIU=",
       "Zafiro.UI.wasm": "sha256-KVg9XcViWhrWCyumXPn5k/+Wk/5q0Pl1fNuf72pqrTQ=",
       "Zafiro.wasm": "sha256-YFcVN/DdEI9bpkDXAn/bude8gUjZ2BD/SwzJv4DaaS4="
