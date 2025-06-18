@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TestApp.Browser",
   "resources": {
-    "hash": "sha256-A2O/Q7Lyh4XuxTq77tyojPAr/3OG4INyVSG/jK0YMSs=",
+    "hash": "sha256-Jnyhxs4Ptm/4BIVj7u9ExB8XdZ8sOYUD9sJlYlZTXrk=",
     "jsModuleNative": {
       "dotnet.native.8.0.17.54gc826ext.js": "sha256-SSp471v/cAUc4Gp3zyTNoZeN8/Pe5vtzyaXZv2XoNfE="
     },
@@ -257,15 +257,15 @@
       "TestableIO.System.IO.Abstractions.wasm": "sha256-+YMPcTDpz4FZyUT7BXOGnEAjQzgVFrtccY7Z0S+YN4s=",
       "TestableIO.System.IO.Abstractions.Wrappers.wasm": "sha256-B4fLKGhN6dKFZhLzn5J8AG8sxPDD8dmqGc+SR/GY6vM=",
       "Testably.Abstractions.FileSystem.Interface.wasm": "sha256-hNzJ+LBLuzx6GgPFUjtqlrgMya4vKNXy0rV1oVfeZ6A=",
-      "TestApp.Browser.wasm": "sha256-I4b9MmWDBjmDiq9T8XpAWlSlr3gJwz5yz5/d/K505QA=",
-      "TestApp.wasm": "sha256-NmD+ASKI69TpGcTkpqGMV5KttTrKqKJVbX1tCp5WrtM=",
+      "TestApp.Browser.wasm": "sha256-vBWs0Zah/uyhckamrha6SEaj4bhYfh62yZpV+genAm4=",
+      "TestApp.wasm": "sha256-gMY30VDY1S7OR3bjry3GJXU0RYrkz+siQqqBBsJuy6Y=",
       "WindowsBase.wasm": "sha256-FlJ2nafNrWiJjHfIM3jHmENrSQE2LuaJULuhcZgE9Qs=",
-      "Zafiro.Avalonia.DataViz.wasm": "sha256-7drgmsD3Ag0YPzyPF4PEvDFW6CKVGGs1Emev6vrFhKs=",
-      "Zafiro.Avalonia.Dialogs.wasm": "sha256-Ge4mfLGDxxOCJ3bMeyJkAFWz+iepgN/7gRdDyhquUPc=",
-      "Zafiro.Avalonia.wasm": "sha256-eJTNHGn6vzhYHrpEzNVU89PGLeV8yoEsGSxj/2mG9cE=",
-      "Zafiro.FileSystem.wasm": "sha256-pj3SmeBgAbx9wWvqVWt9vuKFt3KucPtjF66Iw9zOPVg=",
-      "Zafiro.UI.wasm": "sha256-dT4q3KPad9rraZHsMv2RU6Wy0dbdt2FgZVchbnrqIvA=",
-      "Zafiro.wasm": "sha256-ZtlFxljNDQVo1+Lmn+ShKAZQpro4e46T3w3IIUyril0="
+      "Zafiro.Avalonia.DataViz.wasm": "sha256-tQ2sJ0z1YNB4JttScBxbjXlF+Fmvkua3fkDkgM9DMI0=",
+      "Zafiro.Avalonia.Dialogs.wasm": "sha256-eefhWNqutTDSLKqt6ZzlyajFri4NZJ8eyu88vh41C3Y=",
+      "Zafiro.Avalonia.wasm": "sha256-A0r/r/ewzE7n5lubZpx1O8DGtsqwCyi8SClvmb8lYDc=",
+      "Zafiro.FileSystem.wasm": "sha256-eK7T2+BK4w2Aor8imk+vvTN3CYf0XJcxKo2K7B77Q5g=",
+      "Zafiro.UI.wasm": "sha256-2vA37jn+KL8W8v9H+VdDKZzcy3oZ9fwdOUA1HpQ/dmY=",
+      "Zafiro.wasm": "sha256-5EteksC2cEB+ctWQ1pABdUM6l+ExFlh5Rmgw7cC6xEI="
     }
   },
   "cacheBootResources": true,
