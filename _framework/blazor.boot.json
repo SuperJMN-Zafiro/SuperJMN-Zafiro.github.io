@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TestApp.Browser",
   "resources": {
-    "hash": "sha256-/JUh9S+bd8TeP5SesHoWMR/k92SBRe+Po1e9Q5uXCIw=",
+    "hash": "sha256-n5F+fOn1D9c1UQDxbjER0UtZ6v/4SIhSKzaa834RJOA=",
     "jsModuleNative": {
       "dotnet.native.8.0.17.54gc826ext.js": "sha256-SSp471v/cAUc4Gp3zyTNoZeN8/Pe5vtzyaXZv2XoNfE="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.8.0.17.r9zywr6och.js": "sha256-nlm9ZX+9Z8SHWuCfVhHT5pkK9QzTgBn3opfL6mMas20="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-y87ht8y/aUFzZn0DXucXQfx0UQUo/dycCNZN+wGPNNs="
+      "dotnet.native.wasm": "sha256-SJzzcuAsSGxxUAUTyhuFmsFSP8MmX4S8/8hPTiYrA3U="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -19,12 +19,11 @@
     "assembly": {
       "Avalonia.Base.wasm": "sha256-+RqkROYbMYkTCjSmZmOcok71A9hCclcjdsmCk3K6Z8s=",
       "Avalonia.Browser.wasm": "sha256-QWgEpb8fX8B+SahTM5yZmVfU+34L8zeULkITHWIdDQ0=",
-      "Avalonia.Controls.ColorPicker.wasm": "sha256-N+P5ziJG8DOXFp63d+weTXXlrzdmOn0+ngWYfJHOrhI=",
+      "Avalonia.Controls.ColorPicker.wasm": "sha256-JH7Og1OeZHapVikio1wg7GUCEiF6wObtDjsJ56mnZd0=",
       "Avalonia.Controls.DataGrid.wasm": "sha256-+u+pJOMSy0QbtCujjdHySUGPoQ0E0Jf8kr7mFSCSmUE=",
       "Avalonia.Controls.PanAndZoom.wasm": "sha256-LGTR/L03owZp6+8AW081qOOZEwgRHndcNZefoSdtJ3s=",
       "Avalonia.Controls.wasm": "sha256-bQ+jOrEB3ORt5O5Wkni6XSOGzAZTCmWL9tMqIDK8wkI=",
       "Avalonia.DesignerSupport.wasm": "sha256-1INJ1ncZxbmHr6i6zs9KFg78Jy/FtypiI2FW5K6V1dE=",
-      "Avalonia.Diagnostics.wasm": "sha256-R2xVRBdryP2khwVrnHf+s20NTUfwvnmzNAZeGv6IxEM=",
       "Avalonia.Dialogs.wasm": "sha256-wD1y9De5xIt6PJfsZG0d8IhEqXguvU9kng6HE/Qk/Zc=",
       "Avalonia.Fonts.Inter.wasm": "sha256-BP1gK2UXwKCk7tFgNfncepMP9DiVJFDhaF/Qj2YiRsE=",
       "Avalonia.Markup.wasm": "sha256-JDUFv1InADNx0P2/Z6SqhoIT5qYo2nwPW7v6lj+vE1Q=",
@@ -37,7 +36,6 @@
       "Avalonia.Skia.wasm": "sha256-8MpY4BaqqAZBx5gs2+CmUv15L0qYju+ABD7m4UQ56Hs=",
       "Avalonia.Svg.wasm": "sha256-9f6hZyVAe8kThoWlyxhF7Poj+bFF+T29KbmD3YqFPBY=",
       "Avalonia.Themes.Fluent.wasm": "sha256-2wLQ+n7UEzwN/4YshG6JwKtvESVGweWolGNmOwUnRFs=",
-      "Avalonia.Themes.Simple.wasm": "sha256-o7I1KWvQH9hJzuuGN52LfmCZrcu9gID4HLvjdue5cn8=",
       "Avalonia.Vulkan.wasm": "sha256-YDCTxgOVoAXiQkrXcfXx3u8MnOw/38jaZYa1iCN3mlQ=",
       "Avalonia.wasm": "sha256-b/SjNe/LBh6sgnGEhhv/PZ6qC//XyvHOf3+um+4lBfg=",
       "Avalonia.Xaml.Interactions.Custom.wasm": "sha256-IT1KCCEFBvKYI2EBIB2oDOhgy8MNIVMPY6imntBDuX8=",
@@ -257,12 +255,12 @@
       "TestableIO.System.IO.Abstractions.wasm": "sha256-+YMPcTDpz4FZyUT7BXOGnEAjQzgVFrtccY7Z0S+YN4s=",
       "TestableIO.System.IO.Abstractions.Wrappers.wasm": "sha256-B4fLKGhN6dKFZhLzn5J8AG8sxPDD8dmqGc+SR/GY6vM=",
       "Testably.Abstractions.FileSystem.Interface.wasm": "sha256-hNzJ+LBLuzx6GgPFUjtqlrgMya4vKNXy0rV1oVfeZ6A=",
-      "TestApp.Browser.wasm": "sha256-DThRQEHwuGhL/J2yPssOmv1BThbfMBxDf/LLEVjuVCU=",
-      "TestApp.wasm": "sha256-VNMnS/OmOKUl+IW5hnfmkVl3a7S2IwvDMcOC/OE6RHY=",
+      "TestApp.Browser.wasm": "sha256-sFSjmTWqR+3FeJ3Ld+yPq/H9kKl6JGbbSOYiZu1/hyc=",
+      "TestApp.wasm": "sha256-GezhsG/07kBWTTIkVSrTD+uxTYjjbq0wGdWzo8QWNsE=",
       "WindowsBase.wasm": "sha256-FlJ2nafNrWiJjHfIM3jHmENrSQE2LuaJULuhcZgE9Qs=",
-      "Zafiro.Avalonia.DataViz.wasm": "sha256-D+4mkwF2pV1lV/ZhtsxtskUMPa8IzjkO9t5jqyDHY3Y=",
-      "Zafiro.Avalonia.Dialogs.wasm": "sha256-sP4hpUu98w7bBSMv5COIjDyFLRoMFCUjH0fmHftbqSM=",
-      "Zafiro.Avalonia.wasm": "sha256-6HQ6mLeAZI6vHpsGbabD8wryjTA7URJDeZzpmMZgnbQ=",
+      "Zafiro.Avalonia.DataViz.wasm": "sha256-Cu3FICjFwObcmv0KEJL2RgOMKaCAoCoq0XpftUmHVg8=",
+      "Zafiro.Avalonia.Dialogs.wasm": "sha256-TuLwuGlO2ztpRBuAHmmNjFbZRo6nv15bmWVjQwT6H7w=",
+      "Zafiro.Avalonia.wasm": "sha256-UjjrpeDYsnFZdC49r+7TJ0YSIu0dR6VIEFDUR9D8HbE=",
       "Zafiro.FileSystem.wasm": "sha256-eK7T2+BK4w2Aor8imk+vvTN3CYf0XJcxKo2K7B77Q5g=",
       "Zafiro.UI.wasm": "sha256-2vA37jn+KL8W8v9H+VdDKZzcy3oZ9fwdOUA1HpQ/dmY=",
       "Zafiro.wasm": "sha256-5EteksC2cEB+ctWQ1pABdUM6l+ExFlh5Rmgw7cC6xEI="
