@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "TestApp.Browser",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-zwbDr3bDi3W4JG6E03tkMusMB/9/d7M9bv9j3qqZ0vU=",
+    "hash": "sha256-As3KqhoFp2r3f2eVG+c3lHTqRaMF781tBSFJuSqfFJo=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.ykrnppwhq2.js"
@@ -1566,88 +1566,88 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "TestApp.wasm",
-        "name": "TestApp.mqg0uxg0gc.wasm",
-        "integrity": "sha256-Qqn+uZAACdvHPHGgBsHxK1f7Hu0zKoh+SlGX0W1ooq4=",
+        "name": "TestApp.i0uysmkmef.wasm",
+        "integrity": "sha256-jr9+xxlaHgv8OWTHYqQRDdUyrJdJ2GYmrdbW8V5zxFE=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Zafiro.Avalonia.DataViz.wasm",
-        "name": "Zafiro.Avalonia.DataViz.7yqv358d3g.wasm",
-        "integrity": "sha256-L3GdO1MKDyN/DQH6nHGb0K6xdIYPkM+t81SpKWN217E=",
+        "name": "Zafiro.Avalonia.DataViz.xrhj48cx0w.wasm",
+        "integrity": "sha256-Q3vbZJlfRfT4lOhr4OcZpKw23qSfPq5LB/PyuAXLEW8=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Zafiro.Avalonia.Dialogs.wasm",
-        "name": "Zafiro.Avalonia.Dialogs.w3458qfs09.wasm",
-        "integrity": "sha256-DEQaIa3Y2wkFRy+kPp9wTHX8aE4lSXYt4XmDYnRB/jI=",
+        "name": "Zafiro.Avalonia.Dialogs.idb9l2r96n.wasm",
+        "integrity": "sha256-1g4P8ohyLQIHhs4/PFoC+Imk+0OZsedo/uzmwySVLME=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Zafiro.Avalonia.wasm",
-        "name": "Zafiro.Avalonia.pj30idlz4r.wasm",
-        "integrity": "sha256-CzhpT0I8XEzQo+iYQ1JZONgiqq1hrNpvKyrTsKsqmtM=",
+        "name": "Zafiro.Avalonia.b7zc0ku4sw.wasm",
+        "integrity": "sha256-N+026MmY23ZOh2BLNrm9UEsIFgWaAJxtPckyANUbsdE=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Zafiro.Avalonia.Icons.Optris.wasm",
-        "name": "Zafiro.Avalonia.Icons.Optris.4azvhxt9t3.wasm",
-        "integrity": "sha256-pFaoQxwf4ZiZrrtu0SdvpYBV9mb5kXE8ISC7JIrcHdo=",
+        "name": "Zafiro.Avalonia.Icons.Optris.5lks997me0.wasm",
+        "integrity": "sha256-x0s0QXC+cmb4yPxZyWqYc9O7QH8XGQ9XCN7MW5VeUhU=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Zafiro.Avalonia.Icons.Svg.wasm",
-        "name": "Zafiro.Avalonia.Icons.Svg.ss6icdgabs.wasm",
-        "integrity": "sha256-FK062wWQQcSD2NVVsk2AYgl/EWldO8hMxBq7TYCGzWw=",
+        "name": "Zafiro.Avalonia.Icons.Svg.5vs25ar4k5.wasm",
+        "integrity": "sha256-X8QbQKE7hr/ISwEn4g5DhZ2k9wAyYE+THQmssBUBXlI=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "TestApp.Browser.wasm",
-        "name": "TestApp.Browser.zipe973sa6.wasm",
-        "integrity": "sha256-RTJGi64CXdLmYCQgJSZ5L6zTIaL3lbOAux3GaynjnLc=",
+        "name": "TestApp.Browser.m3g9bfep9x.wasm",
+        "integrity": "sha256-Pp/LkYKloj25/IqmnIXQLLax1BILj8ApyCq/xp8IXfw=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "TestApp.pdb",
-        "name": "TestApp.u5pr91a1is.pdb",
-        "integrity": "sha256-3hp03/XCjcCa6j1yCDhTWXbPm+juQXSqcEFRkNW5dXQ=",
+        "name": "TestApp.v00169i384.pdb",
+        "integrity": "sha256-od+TOMJoUoGS4sBHXB6Ud2H2ZAs6YqfxTgLe9WoIg1k=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Zafiro.Avalonia.pdb",
-        "name": "Zafiro.Avalonia.5xxp7q099l.pdb",
-        "integrity": "sha256-BzmIsv+qtprDVuujfe/f/1FCHAKrE/9ZQo9Ach0Lv7A=",
+        "name": "Zafiro.Avalonia.gmx972itwq.pdb",
+        "integrity": "sha256-eCFU2IK3gBd6r2BuNbwcnKQ/9LV+PTaE22RBYg/sOAs=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Zafiro.Avalonia.DataViz.pdb",
-        "name": "Zafiro.Avalonia.DataViz.9cdxjczb5o.pdb",
-        "integrity": "sha256-N6uwkdDebR/Pgb67wPJetqP4bHxZ0DNulreTM1FpMkw=",
+        "name": "Zafiro.Avalonia.DataViz.zeadkmf99d.pdb",
+        "integrity": "sha256-+1Hj2u2plFVrjKNJBmKMAYMMZbMc2IO1LlvG/xw7Ig0=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Zafiro.Avalonia.Dialogs.pdb",
-        "name": "Zafiro.Avalonia.Dialogs.idhzia6k1j.pdb",
-        "integrity": "sha256-tlwVC4Q1cHpJiATk0xifSQMk65oBH6tB2DU4up+hbgg=",
+        "name": "Zafiro.Avalonia.Dialogs.zsfvt5r3dy.pdb",
+        "integrity": "sha256-w0JpXRpy7eJ6ejF7kwwI2gxY5f3qWYl1b1ekySvA0yQ=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Zafiro.Avalonia.Icons.Optris.pdb",
-        "name": "Zafiro.Avalonia.Icons.Optris.894shij4z1.pdb",
-        "integrity": "sha256-dJI6ACpGyIi2kIm95DqhPzMzJyfBmGVGS1DVPCNS66s=",
+        "name": "Zafiro.Avalonia.Icons.Optris.a77erug60s.pdb",
+        "integrity": "sha256-9s7DBGly4yguw69Gz7wXSZBrtqpL0CIQuUO4FgJO480=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "Zafiro.Avalonia.Icons.Svg.pdb",
-        "name": "Zafiro.Avalonia.Icons.Svg.vjoxocvyir.pdb",
-        "integrity": "sha256-izJ0QyOC4tZr+WDGZlASlPHvUFWO6+Yp2kTdcB6Md+g=",
+        "name": "Zafiro.Avalonia.Icons.Svg.u51ynscsyt.pdb",
+        "integrity": "sha256-np72cNVLiTq89Ffjc17AHXL09pzayaS/M3NhlwH3Mro=",
         "cache": "force-cache"
       },
       {
         "virtualPath": "TestApp.Browser.pdb",
-        "name": "TestApp.Browser.dwd5z6kkn1.pdb",
-        "integrity": "sha256-nfCZbRdWSp0f0Yc2ENDIWNcks3K8Ngy6JT+dCMXNiaE=",
+        "name": "TestApp.Browser.xpuam8jgoc.pdb",
+        "integrity": "sha256-BeB6QI4sDU0Cc4fSL19bqJ7xBThwsdXuKM4SJCjguOk=",
         "cache": "force-cache"
       }
     ]
